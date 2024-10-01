@@ -1,3 +1,3 @@
-# zig-type-utils
+# zig-ansi-utils
 
-Basic type utilities for zig
+Basic ansi utilities for zig
